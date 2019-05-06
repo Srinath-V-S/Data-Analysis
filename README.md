@@ -1,2 +1,2 @@
-# NumpyLib
-Reference repository for python's numpy library
+# Data Analysis
+Reference repository for Data Analysis libraries in Python
